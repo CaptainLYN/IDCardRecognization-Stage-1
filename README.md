@@ -8,5 +8,7 @@ https://www.cnblogs.com/studylyn/p/9505573.html
 
 欢迎fork，喜欢点击Star。
 
-# 图像处理效果
-![](
+#### 图像处理效果
+
+![](https://github.com/CaptainLYN/IDCardRecognization-Stage-1/blob/master/%E5%A5%A5%E5%B7%B4%E9%A9%AC.jpg)
+![](https://github.com/CaptainLYN/IDCardRecognization-Stage-1/blob/master/%E5%A5%A5%E5%B7%B4%E9%A9%AC%E8%AF%86%E5%88%AB%E6%95%88%E6%9E%9C.jpg)
